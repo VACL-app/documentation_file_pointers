@@ -4,31 +4,24 @@ file pointers to trello, figma, db designer, etc
 ## User Flow:
 https://docs.google.com/drawings/d/11T561uX7HJWTekUa_473NlHkYGiqkGe_aiIF0e4kqi8/edit 
 
-
 ## Trello
 https://trello.com/b/AsPE7dTZ/vacl
-
-
 
 ## DB Designer
 http://dbdesigner.net/designer/schema/94097 
 
-
 ## Wire frames using Figma
 https://www.figma.com/file/UtoULAESZvIyEv5U0wh746J5/VALC---MOCKUP 
 
-
-
-
 ## FAQ
-1. What is this app?
+1. What is this app?...
 This app is an online aboriginal languages learning platform sponsoered for VACL. VACL staff and volunteers experience helped build the content to make indegenous language learning more fun and effective. It is also 100% free? Join the movement, sign up today!
 For more details, visit the VACL page.
-2. Where can I use this app?
+2. Where can I use this app?...
 You can use this app on your computer or smart phone by accessing its website.
-3.How much does cost?
+3.How much does cost?...
 You can learn languages on this app completely free. You can use it on your computer and sync it with our free apps for your mobile device. You can register at no cost. No catch. Sign up today and get started! 
-4.I think VACL is awesome and want to work there! How do I submit my resume?
+4.I think VACL is awesome and want to work there! How do I submit my resume?...
 If you are passionate about the VACL work and would like to join our team, we'd love to hear from you! Check our VACL Employment opportunities, you will find the current listings for the positions we have available. 
 5.Are there official studies about VACL?
 Yes! We are always working on figuring out the best ways to learn a new language through our aboringinal societies. We have a team of staff and volunteers to help us source our language education. 
