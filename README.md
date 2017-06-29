@@ -4,23 +4,26 @@ file pointers to trello, figma, db designer, etc
 ## User Flow:
 https://docs.google.com/drawings/d/11T561uX7HJWTekUa_473NlHkYGiqkGe_aiIF0e4kqi8/edit 
 
+![vacl user flow](https://user-images.githubusercontent.com/25757504/27676878-04aadcc2-5cf3-11e7-93c2-119a78b1b613.jpg)
+Figure 1: VACL App User flow
+
 ## Trello
 https://trello.com/b/AsPE7dTZ/vacl
 
 ![vacl trello](https://user-images.githubusercontent.com/25757504/27675668-36683ea8-5cee-11e7-83c3-487ee4932c9a.jpg)
-Figure 1: VACL Trello Board
+Figure 2: VACL Trello Board
 
 ## DB Designer
 http://dbdesigner.net/designer/schema/94097 
 
 ![vacl db design](https://user-images.githubusercontent.com/25757504/27675098-eeb11802-5ceb-11e7-9731-f0e584ff226c.jpg)
-Figure 2: VACL db Design
+Figure 3: VACL db Design
 
 ## Wire frames using Figma
 https://www.figma.com/file/UtoULAESZvIyEv5U0wh746J5/VALC---MOCKUP 
 
 ![vacl figma](https://user-images.githubusercontent.com/25757504/27676411-22130dfe-5cf1-11e7-88b7-e39dbd2c6c25.jpg)
-Figure 3: VACL Figma Mockups
+Figure 4: VACL Figma Mockups
 
 ## FAQ
 1. **What is this app?**
