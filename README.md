@@ -10,6 +10,9 @@ https://trello.com/b/AsPE7dTZ/vacl
 ## DB Designer
 http://dbdesigner.net/designer/schema/94097 
 
+![vacl db design](https://user-images.githubusercontent.com/25757504/27675098-eeb11802-5ceb-11e7-9731-f0e584ff226c.jpg)
+figure 1: VACL db Design
+
 ## Wire frames using Figma
 https://www.figma.com/file/UtoULAESZvIyEv5U0wh746J5/VALC---MOCKUP 
 
